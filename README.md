@@ -49,3 +49,7 @@ This site is made using following tech stacks:
 * CSS
 * Bootstarp
 
+## Project Link
+The project is hosted through netlify and can be accessed through:
+https://naughty-hermann-715f38.netlify.app/#
+
