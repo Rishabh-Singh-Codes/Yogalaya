@@ -50,6 +50,6 @@ This site is made using following tech stacks:
 * Bootstarp
 
 ## Project Link
-The project is hosted through netlify and can be accessed through:
-https://naughty-hermann-715f38.netlify.app/#
+The project is hosted through Netlify and can be accessed through:
+https://yogalaya.netlify.app/#
 
