@@ -1,7 +1,7 @@
 # Yogalaya
 ![Yogalaya-rm](https://user-images.githubusercontent.com/86565216/132538541-8095557c-ce9a-45fd-b08e-2bb36f28fa45.png)
 
-A website made for Yoga and Retreat Centre where clients can get information about the sevices and facilities, register themselves and book trial classes.
+A website made for Yoga and Retreat Centre where clients can get information about the services and facilities, register themselves and book trial classes.
 
 ## Website Overlay
 ### Home
