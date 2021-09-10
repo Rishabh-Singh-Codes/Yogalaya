@@ -15,8 +15,9 @@ When the site is loaded first the following home screen appears:
 When registration information is submtted, the following **modal** is triggered.
 ![reg-modal](https://user-images.githubusercontent.com/86565216/132651974-4a105bf4-78d2-40ed-a634-38306af88f63.png)
 
-When CTA button is clicked, the following **modal** is triggered asking for details.
-![CTA-modal](https://user-images.githubusercontent.com/86565216/132652272-d3361cf1-a0a2-464a-9dbb-5d48d7a6e44a.png)
+When CTA button is clicked, the following **modal** is triggered asking for details with calendar date and time.
+![CTA-modal](https://user-images.githubusercontent.com/86565216/132813427-87656487-a6df-42ed-9498-39532d361045.png)
+
 
 ### About Us
 This section provides information of the company.
