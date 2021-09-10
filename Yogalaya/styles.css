@@ -1,0 +1,312 @@
+
+body {
+    margin: 0px;
+    padding: 0 px;
+    background-image: url('images/BG.jpg');
+    background-repeat: no-repeat;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: bisque;
+}
+
+.left {
+    display: inline-block;
+
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    padding-top: 0%;
+
+}
+
+.mid {
+    display: block;
+    width: 36%;
+    margin: 20px auto;
+
+
+}
+
+.right {
+    position: absolute;
+    right: 35px;
+    top: 20px;
+    display: inline-block;
+
+    margin: 20px;
+}
+
+.navbar {
+    display: inline-block;
+
+}
+
+.navbar li {
+    color: black;
+    display: inline-block;
+    font-size: 15px;
+
+}
+
+.navbar li a {
+    color: black;
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px;
+
+}
+
+.navbar li a:hover,
+.navbar li a:active {
+    color: rgb(37, 8, 8);
+    background-color: bisque;
+    border: 1px solid rgb(245, 156, 123);
+    border-radius: 100px;
+    font-size: 100%;
+    padding: 9px;
+
+}
+
+
+
+.left img {
+    width: 125px;
+    top: 0px;
+
+}
+
+.left div {
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.btn {
+    margin: 0px 10px;
+    background-color: rgb(173, 8, 8);
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 12px;
+    width: 100%;
+    border: 2px solid burlywood;
+    border-radius: 20px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.btn:hover {
+    background-color: rgb(219, 112, 112);
+    color: black;
+    size: 150%;
+    border: 2px solid burlywood;
+}
+
+.container {
+    border: 2px solid grey;
+    margin: 129px 100px;
+    padding: 10px;
+    width: 40%;
+    border-radius: 20px;
+
+}
+
+#submit-button {
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: blanchedalmond;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+    display: block;
+    text-align: center;
+    margin: 20px auto;
+    width: 25%;
+    padding: 5px;
+}
+
+#submit-button:hover {
+    color: blanchedalmond;
+    background-color: black;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+    display: block;
+    text-align: center;
+    cursor: pointer;
+}
+
+.formgroup input {
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    display: block;
+    width: 386px;
+    padding: 5px;
+    border: 2px solid black;
+    margin: 7px auto;
+    font-size: 15px;
+    border-radius: 8px;
+
+}
+
+.container h2 {
+    text-align: center;
+}
+
+.imagesec1 {
+    background-color: bisque;
+}
+
+.imagesec1 img {
+    width: auto;
+    display: block;
+    margin: auto;
+    border: 2px solid grey;
+    border-radius: 10px;
+}
+
+#yogacentres {
+    background-color: bisque;
+    margin: auto;
+    display: grid;
+    padding: 50px;
+}
+
+.cards {
+    background-color: burlywood;
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 20px;
+
+}
+
+.cards:hover {
+    background-image: url(images/orange.jpg);
+
+}
+
+.card_images {
+    height: 180px;
+    width: 265px;
+}
+
+.card .btn {
+    font-size: 15px;
+    width: 60%;
+    margin-left: 38px;
+
+}
+
+.card .btn::after {
+    text-decoration: none;
+    background-color: rgb(219, 112, 112);
+}
+
+
+
+.gallerysection,
+.aboutus,
+.contactus {
+    margin: 50px;
+    padding: 10px;
+
+}
+
+.gallery {
+    border: 1px solid brown;
+    padding: 10px;
+    width: 75%;
+    display: block;
+    margin: auto;
+    position: relative;
+    border-radius: 10px;
+}
+
+.gallery img {
+    height: 35rem;
+    border: 1px solid;
+    border-radius: 10px;
+}
+
+
+
+.flexcontainer {
+    display: flex;
+}
+
+.box1 {
+    flex: 1;
+    display: block;
+    text-align: center;
+    font-size: 140%;
+    border-right: 2px solid rgb(37, 8, 8);
+    text-decoration: none;
+    padding-top: center;
+}
+
+.box1 a {
+    text-decoration: none;
+    color: black;
+}
+
+.box1 img {
+    width: 45%;
+    display: block;
+    margin: auto;
+    margin-top: 15%;
+}
+
+.box2 {
+    flex: 2;
+    padding-left: 10%;
+    padding-top: 5%;
+
+}
+
+.box2 img {
+    width: 5%;
+
+}
+
+.box2 ul {
+    list-style: none;
+}
+
+#address {
+    display: inline-block;
+}
+
+pre {
+    display: inline;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+}
+
+.gallerysection a , footer a{
+    color: brown;
+    text-decoration: none;
+}
+
+.interest {
+    display: inline-block;
+    margin-left: 25%;
+}
+
+.footer{
+   background-color: rgb(206, 124, 238);
+   color: blueviolet;
+   font-size: larger;
+   text-align: center;
+   bottom: 0;
+   
+}
+
+footer a:hover{
+    text-decoration: none;
+    color:black;
+}
+
+
+.heart{
+    width:5%;
+}
+
+.ft-img{
+    width: 3%;
+}
