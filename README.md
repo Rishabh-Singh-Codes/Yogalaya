@@ -1,9 +1,9 @@
-# Yogalaya
+# Yogalaya :running: :running_woman:
 ![Yogalaya-rm](https://user-images.githubusercontent.com/86565216/132538541-8095557c-ce9a-45fd-b08e-2bb36f28fa45.png)
 
 A website made for Yoga and Retreat Centre where clients can get information about the services and facilities, register themselves and book trial classes.
 
-## Website Overlay
+## Website Overlay 	:computer:
 ### Home
 When the site is loaded first the following home screen appears:
 ![sec1-rm](https://user-images.githubusercontent.com/86565216/132651309-c9464c1c-ce04-4d68-bd21-563014dd57d2.jpg)
@@ -43,13 +43,18 @@ Contact Us section provides comapany's contact details. The footer conatins deve
 10. Developer details
 
 
-## Technology Stack
+## Technology Stack :electron:
 This site is made using following tech stacks:
 * HTML
 * CSS
 * Bootstarp
 
-## Project Link
+## Project Link :link:
 The project is hosted through Netlify and can be accessed through:
 https://yogalaya.netlify.app/#
+
+## Developer 	:man_technologist:
+Rishabh Singh : 
+https://www.linkedin.com/in/rishabh8singh/
+
 
